@@ -10,7 +10,7 @@
 
 <h2 id="education">
  Education </h2>
-  <li>University: <strong>University of Information Technology - VNU</strong>
+  <li>University: <strong>University of Information Technology - HCMUIT</strong>
     <ul>
       <li>Branch of learning: <strong>Computer Science</strong></li>
     </ul>
