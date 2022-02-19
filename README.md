@@ -2,9 +2,9 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=21521160&amp;color=green&amp;style=flat-square" alt="" /></p>
 <h1 id="about-me">About me</h1>
-<li><strong>Address:</strong> Biên Hòa, Đồng Nai &lt;
-<li><strong>Date of birth:</strong> 30/07/2003 &lt;
-<li><strong>Phone Number</strong> +848537922 &lt;
+<li><strong>Address:</strong> Biên Hòa, Đồng Nai 
+<li><strong>Date of birth:</strong> 30/07/2003
+<li><strong>Phone Number:</strong> +848537922 
 <li><strong>Programming language</strong> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />
 
 <h2 id="education">
