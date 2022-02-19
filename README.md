@@ -2,6 +2,7 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=21521160&amp;color=green&amp;style=flat-square" alt="" /></p>
 <h1 id="about-me">About me</h1>
+<li><strong>Full Name:</strong> Nguyễn Nhật Nam </li>
 <li><strong>Address:</strong> Biên Hòa, Đồng Nai </li>
 <li><strong>Date of birth:</strong> 30/07/2003 </li>
 <li><strong>Phone Number:</strong> +848537922 </li>
