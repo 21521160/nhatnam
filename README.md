@@ -30,4 +30,4 @@
 
 <a href="https://www.facebook.com/N3z3007/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white" alt="Facebook" /></a>
 <a href="mailto:21521160@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
-</strong></li></strong></li></strong></li></strong></li></strong></li></li></li></li></li>
+</strong></li></strong></li></strong></li></strong></li></strong></li></li></li></li></li> 
